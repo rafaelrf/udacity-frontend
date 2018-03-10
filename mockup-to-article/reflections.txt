@@ -2,8 +2,14 @@ You've learned a lot about web development so far. I want you to take a moment t
   * What new skills have you learned?
   * What has been easy?
   * What has been difficult?
-  * How have you used the problem solving strategies from the first project to overcome challenges so far?
-
+  * How have you used the problem solving
+    strategies from the first project to overcome challenges so far?
 ---
-
 Your response goes here!
+
+Não achei difícil, apenas trabalhoso pelos detalhes e por ter que pesquisar e
+aprender Novas elementos html, como por exemplo: s, sup, sub, blockquote.
+Comecei analisando todo os problemas que deveria resolver, identificando
+cada detalhe e fui resolvendo por partes, iniciando com as partes
+maiores como a estrutura até chegar à necessidade de pesquisar os novos
+elementos e  assim concluir toda a página.
